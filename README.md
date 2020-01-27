@@ -90,4 +90,4 @@ fars_map_state <- function(state.num, year) {
   })
 }
 
-https://travis-ci.org/Matthes94/Smith.Matthew.Jan.20.svg?branch=master
+[![Build Status](https://travis-ci.org/Matthes94/Smith.Matthew.Jan.20.svg?branch=master)](https://travis-ci.org/Matthes94/Smith.Matthew.Jan.20)
