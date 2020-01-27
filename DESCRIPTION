@@ -1,0 +1,16 @@
+Package: Smith.Matthew.Jan.20
+Type: Package
+Title: Building R Packages Week 4
+Version: 0.1.0
+Author: Matthew Smith
+Maintainer: Matthew Smith <yourself@somewhere.net>
+Description: Creates Customized Accident Reports (in dataframe from) from csv files.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: dplyr, readr, maps, tidyr, testthat
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
