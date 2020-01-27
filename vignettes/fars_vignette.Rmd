@@ -14,7 +14,10 @@ knitr::opts_chunk$set(
 )
 ```
 
-This package can be used to summarize and create point graphs from csv.bz2 accident files from the US National Highway Traffic Safety Administration through the use of 5 key functions described below.
+This package can be used to summarize and create point graphs from csv.bz2 accident files from the US National Highway 
+Traffic Safety Administration through the use of 5 key functions described below.
+
+Data Source: US National Highway Traffic Safety Administration, https://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)
 
 ```{r setup}
 library(Smith.Matthew.Jan.20)
