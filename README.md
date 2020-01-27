@@ -89,3 +89,5 @@ fars_map_state <- function(state.num, year) {
     graphics::points(LONGITUD, LATITUDE, pch = 46)
   })
 }
+
+https://travis-ci.org/Matthes94/Smith.Matthew.Jan.20.svg?branch=master
